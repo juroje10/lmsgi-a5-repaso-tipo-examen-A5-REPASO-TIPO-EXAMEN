@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<tienda>
+    <producto>
+        <codigo>1001</codigo>
+        <nombre>Smartphone XYZ</nombre>
+        <descripcion>Smartphone con pantalla de 6.5 pulgadas y 128GB de almacenamiento</descripcion>
+        <precio>599.99</precio>
+        <categoria>Electrónica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>smartphone.jpg</imagen>
+    </producto>
+    <producto>
+        <codigo>1002</codigo>
+        <nombre>Auriculares Bluetooth</nombre>
+        <descripcion>Auriculares inalámbricos con cancelación de ruido</descripcion>
+        <precio>89.99</precio>
+        <categoria>Electrónica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>auriculares_bluetooth.jpg</imagen>
+    </producto>
+    <producto>
+        <codigo>1003</codigo>
+        <nombre>Zapatillas deportivas</nombre>
+        <descripcion>Zapatillas deportivas para correr, color negro</descripcion>
+        <precio>49.99</precio>
+        <categoria>Deportes</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>zapatillas_deporte.jpg</imagen>
+    </producto>
+    <producto>
+        <codigo>1004</codigo>
+        <nombre>Reloj inteligente</nombre>
+        <descripcion>Reloj con monitor de actividad física y GPS</descripcion>
+        <precio>199.99</precio>
+        <categoria>Accesorios</categoria>
+        <disponibilidad>Agotado</disponibilidad>
+        <imagen>reloj_inteligente.jpg</imagen>
+    </producto>
+    <producto>
+        <codigo>1005</codigo>
+        <nombre>Tablet Pro</nombre>
+        <descripcion>Tablet de 10 pulgadas con procesador de alto rendimiento</descripcion>
+        <precio>699.99</precio>
+        <categoria>Electrónica</categoria>
+        <disponibilidad>En stock</disponibilidad>
+        <imagen>tablet_inteligente.jpg</imagen>
+    </producto>
+</tienda>
